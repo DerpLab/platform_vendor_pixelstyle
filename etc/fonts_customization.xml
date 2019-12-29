@@ -8,6 +8,14 @@
         <font weight="700" style="italic">GoogleSans-BoldItalic.ttf</font>
     </family>
     <alias name="google-sans-medium" to="google-sans" weight="500" />
+    <alias name="times" to="google-sans" />
+    <alias name="times new roman" to="google-sans" />
+    <alias name="palatino" to="google-sans" />
+    <alias name="georgia" to="google-sans" />
+    <alias name="baskerville" to="google-sans" />
+    <alias name="goudy" to="google-sans" />
+    <alias name="fantasy" to="google-sans" />
+    <alias name="ITC Stone Serif" to="google-sans" />
 
     <family customizationType="new-named-family" name="arbutus-slab">
       <font weight="400" style="normal">ArbutusSlab-Regular.ttf</font>
