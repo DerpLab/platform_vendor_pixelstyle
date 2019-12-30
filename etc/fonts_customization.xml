@@ -162,6 +162,18 @@
     <alias name="fantasy" to="rosemary" />
     <alias name="ITC Stone Serif" to="rosemary" />
 
+    <family customizationType="new-named-family" name="san-francisco-pro-display">
+      <font weight="400" style="normal">SFProDisplay-Regular.ttf</font>
+      <font weight="500" style="normal">SFProDisplay-Medium.ttf</font>
+    </family>
+    <alias name="san-francisco-pro-display-medium" to="san-francisco-pro-display" weight="500" />
+
+    <family customizationType="new-named-family" name="san-francisco-pro-text">
+      <font weight="400" style="normal">SFProText-Regular.ttf</font>
+      <font weight="500" style="normal">SFProText-Medium.ttf</font>
+    </family>
+    <alias name="san-francisco-pro-text-medium" to="san-francisco-pro-text" weight="500" />
+
     <family customizationType="new-named-family" name="sonysketch">
       <font weight="300" style="normal">SonySketch.ttf</font>
     </family>
