@@ -251,6 +251,10 @@
     <alias name="fantasy" to="surfer" />
     <alias name="ITC Stone Serif" to="surfer" />
 
+    <family customizationType="new-named-family" name="tinkerbell">
+        <font weight="300" style="normal">GearTinkerbell.ttf</font>
+    </family>
+
     <family customizationType="new-named-family" name="bignoodle-italic">
         <font weight="300" style="normal">BigNoodleTilting-Italic.ttf</font>
     </family>
