@@ -18,7 +18,6 @@ LOCAL_PATH := vendor/pixelstyle
 PRODUCT_PACKAGES += \
     NexusWallpapersStubPrebuilt2019Static \
     OPScreenRecorder \
-    SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     GooglePermissionControllerOverlay \
     PixelDocumentsUIGoogleOverlay
