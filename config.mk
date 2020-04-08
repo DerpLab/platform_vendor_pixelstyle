@@ -18,8 +18,12 @@ LOCAL_PATH := vendor/pixelstyle
 PRODUCT_PACKAGES += \
     NexusWallpapersStubPrebuilt2019Static \
     OPScreenRecorder \
-    SettingsIntelligenceGooglePrebuilt \
     GooglePermissionControllerOverlay
+
+ifneq ($(DERP_BUILD_ZIP_TYPE), VANILLA)
+PRODUCT_PACKAGES += \
+    SettingsIntelligenceGooglePrebuilt
+endif
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
