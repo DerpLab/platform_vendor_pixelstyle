@@ -18,7 +18,6 @@ LOCAL_PATH := vendor/pixelstyle
 PRODUCT_PACKAGES += \
     NexusWallpapersStubPrebuilt2019Static \
     OPScreenRecorder \
-    SettingsIntelligenceGooglePrebuilt \
     GooglePermissionControllerOverlay
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
