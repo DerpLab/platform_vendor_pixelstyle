@@ -266,4 +266,8 @@
     <family customizationType="new-named-family" name="rounded-gothic-narrow-half-italic">
         <font weight="300" style="normal">routed-gothic-narrow-half-italic.ttf</font>
     </family>
+
+    <family customizationType="new-named-family" name="evolvesans">
+        <font weight="300" style="normal">EvolveSans.ttf</font>
+    </family>
 </fonts-modification>
